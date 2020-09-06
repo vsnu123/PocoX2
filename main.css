@@ -1,0 +1,106 @@
+body{
+    background: rgb(88, 82, 82);
+}
+
+.front{
+    margin:auto;
+    height: 600px;
+    width: 300px;
+    border: 13px solid black;
+    border-radius: 20px;
+    background: url(wallpaper.jpg);
+    background-size: 100% 100%;
+}
+.phone-nav{
+    width: 100%;
+    height: 40px;
+}
+
+.sim{
+    color: white;
+    margin-top: 12px;
+    margin-left: 10px;
+    margin-right: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+/* .battery-logo{
+    margin-top: 0;
+    margin-left: 200px;
+    margin-right: 10px;
+    height:6px;
+    width: 15px;
+    border: 1.5px solid white;
+    border-radius: 3px;
+
+} */
+
+.battery-percent{
+    margin-top: -15px;
+    margin-left: 222px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.front-cam{
+    margin-left:245px;
+    /* loat: right; */
+    margin-top:-27px;
+    width: 53px;
+    height: 19px;
+    background: rgb(14, 13, 13);
+    border-radius: 10px;
+}
+
+.front-cam1{
+    margin: 1.5px;
+    background: black;
+    width: 15.5px;
+    height: 15.5px;
+    border-radius: 50%;
+}
+
+.front-cam2{
+    margin-top: -17px;
+    margin-left: 35px;
+    background: black;
+    width: 15.5px;
+    height: 15.5px;
+    border-radius: 50%;
+}
+
+.time{
+    margin-top: -20px;
+    padding-left: 15px; 
+    color: white;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.day{
+    margin-top:-20px;
+    color: white;
+    font-size: 40px;
+    padding-left: 15px;
+    font-family: 'Roboto', sans-serif;}
+
+.date{
+    margin-top: -16px;
+    color: white;
+    font-size: 40px;
+    padding-left: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.unlock{
+    margin-top:410px;
+    text-align: center;
+    color: white;
+    font-size: 11px;
+    padding-left: 15px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
